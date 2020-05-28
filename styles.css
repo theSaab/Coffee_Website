@@ -1,0 +1,36 @@
+
+h1{
+    background: red;
+    padding: 20px;
+    margin: 30px;
+    border: 15px solid yellow;
+}
+
+.outter{
+    width: 500px;
+    height: 500px;
+    background: blue;
+}
+
+.inner{
+    width: 50%;
+    height: 50%;
+    background: red;
+}
+
+.relative{
+    font-size: 2em;
+}
+.absolute{
+    font-size: 32px;
+}
+.banner{
+    height: 100vw;
+    width: 50vh;
+    background: red;
+}
+.header{
+    width: 100vw;
+    height: 100vh;
+    background: blue;   
+}  
